@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guan_cang_bu_ju.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_guan_cang_bu_ju.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tong_zhi.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_tong_zhi.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\one.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_info.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\residemenu_info.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dong_tai.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_dong_tai.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_li_shi_yan_ge.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_li_shi_yan_ge.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dongtai.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\fragment_dongtai.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xin_sheng_dao_hang_fragment.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_xin_sheng_dao_hang_fragment.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ben_guan_gai_kuang.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_ben_guan_gai_kuang.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_top_right_dialog.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_main_top_right_dialog.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wei_zhang_jiao_kuan_fragment.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_wei_zhang_jiao_kuan_fragment.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_add.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\popupwindow_add.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\two.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\two.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dang_qian_jie_yue_fragment.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_dang_qian_jie_yue_fragment.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fa_xian_fragment.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_fa_xian_fragment.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\three.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\three.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kai_fang_shi_jian.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_kai_fang_shi_jian.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titie_header_hudong.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\titie_header_hudong.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gui_zhang_zhi_du.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_gui_zhang_zhi_du.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jie_yue_li_shi_fragment.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\layout\\activity_jie_yue_li_shi_fragment.xml"
+    }
+]

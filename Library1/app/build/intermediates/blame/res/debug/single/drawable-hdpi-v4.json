@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a1.jpg",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\a1.jpg"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar_menu.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\title_bar_menu.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_settings.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_settings.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_3_a.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_3_a.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a3.jpg",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\a3.jpg"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_press.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\tab_left_press.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_profile.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_profile.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_function.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\title_btn_function.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_4_b.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_4_b.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\frame.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_calendar.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_activtiy_add_normal.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\main_activtiy_add_normal.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_background.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\menu_background.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_press.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\tab_right_press.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar_menu_on.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\title_bar_menu_on.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_2_b.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_2_b.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\shadow.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_5_b.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_5_b.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_5_a.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_5_a.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_1_b.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_1_b.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a2.jpg",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\a2.jpg"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\return_icon.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\return_icon.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_1_a.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_1_a.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_on.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\button_on.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_4_a.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_4_a.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_3_b.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_3_b.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.9.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_2_a.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\icon_2_a.png"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_pressed.png",
+        "source": "F:\\Library1\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_pressed.png"
+    }
+]

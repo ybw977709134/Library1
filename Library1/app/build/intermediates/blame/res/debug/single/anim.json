@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_move_in.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\activity_move_in.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_move_out_start.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\activity_move_out_start.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_move_in_start.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\activity_move_in_start.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_move_out.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\anim\\activity_move_out.xml"
+    }
+]

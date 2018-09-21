@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:2:1-92:12
+	xmlns:android
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Library1\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:11:5-90:19
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.library.activity.SplashActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:18:13-58
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:17:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.library.activity.MainActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:26:9-29:20
+	android:screenOrientation
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:27:13-61
+activity#com.library.activity.SettingActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:screenOrientation
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:31:13-64
+activity#com.library.fragment.XinShengDaoHangFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:36:13-79
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:35:13-72
+activity#com.library.fragment.FaXianFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:40:13-68
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:39:13-63
+activity#com.library.fragment.TongZhiFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:43:13-64
+activity#com.library.fragment.DongTaiFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:48:13-60
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:47:13-64
+activity#com.library.fragment.HuDongFragment2
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:51:13-64
+activity#com.library.fragment.DangQianJieYueFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:56:13-78
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:55:13-71
+activity#com.library.fragment.JieYueLiShiFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:60:13-75
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:59:13-68
+activity#com.library.fragment.WeiZhangJiaoKuanFragment
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:62:9-65:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:64:13-80
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:63:13-73
+activity#com.library.view.MainTopRightDialog
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:66:9-69:20
+	android:theme
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:67:13-63
+activity#com.library.activity.BenGuanGaiKuangActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:70:9-73:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:72:13-70
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:71:13-72
+activity#com.library.activity.LiShiYanGeActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:74:9-77:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:76:13-65
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:75:13-67
+activity#com.library.activity.GuanCangBuJuActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:78:9-81:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:80:13-67
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:79:13-69
+activity#com.library.activity.GuiZhangZhiDuActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:82:9-85:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:84:13-68
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:83:13-70
+activity#com.library.activity.KaiFangShiJianActivity
+ADDED from F:\Library1\app\src\main\AndroidManifest.xml:86:9-89:20
+	android:label
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:88:13-69
+	android:name
+		ADDED from F:\Library1\app\src\main\AndroidManifest.xml:87:13-71

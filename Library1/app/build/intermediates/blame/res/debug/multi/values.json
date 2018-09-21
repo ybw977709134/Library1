@@ -1,0 +1,1081 @@
+[
+    {
+        "outputFile": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 41,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 40,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 5,
+                        "startOffset": 281,
+                        "endColumn": 41,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 39,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 39,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 46,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 47,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 231,
+                        "endColumn": 48,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 39,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 39,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 49,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 324,
+                        "endColumn": 50,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 57,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 55,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 52,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 44,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 44,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 48,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 48,
+                        "endOffset": 1512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 47,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 47,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 38,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 38,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 37,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 37,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 45,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1563,
+                        "endColumn": 45,
+                        "endOffset": 1604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 45,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2128,
+                        "endColumn": 45,
+                        "endOffset": 2169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 52,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2276,
+                        "endColumn": 52,
+                        "endOffset": 2324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 46,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1610,
+                        "endColumn": 46,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 52,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 37,
+                    "endOffset": 1027
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 37,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1032,
+                    "endColumn": 37,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 37,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 44,
+                    "endOffset": 1110
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 44,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1115,
+                    "endColumn": 47,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endColumn": 47,
+                        "endOffset": 1701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 43,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 43,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 39,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 39,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endColumn": 55,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2219,
+                        "endColumn": 55,
+                        "endOffset": 2270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1303,
+                    "endColumn": 46,
+                    "endOffset": 1345
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2474,
+                        "endColumn": 46,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1350,
+                    "endColumn": 44,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2082,
+                        "endColumn": 44,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 45,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2035,
+                        "endColumn": 45,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 85,
+                    "endOffset": 1522
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 85,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1527,
+                    "endColumn": 92,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 92,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 67,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 67,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 74,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 74,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 79,
+                    "endOffset": 1838
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 79,
+                        "endOffset": 1859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1843,
+                    "endColumn": 81,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 81,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1925,
+                    "endColumn": 76,
+                    "endOffset": 1997
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 76,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2002,
+                    "endColumn": 86,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 86,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 83,
+                    "endOffset": 2168
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endColumn": 83,
+                        "endOffset": 2027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2173,
+                    "endColumn": 75,
+                    "endOffset": 2244
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 75,
+                        "endOffset": 1778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2249,
+                    "endColumn": 64,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 64,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endColumn": 67,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 67,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endColumn": 96,
+                    "endOffset": 2474
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 96,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2479,
+                    "endColumn": 94,
+                    "endOffset": 2569
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 94,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2574,
+                    "endColumn": 38,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 38,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 45,
+                    "endOffset": 2654
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2427,
+                        "endColumn": 45,
+                        "endOffset": 2468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2659,
+                    "endColumn": 49,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 49,
+                        "endOffset": 2421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endColumn": 42,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2175,
+                        "endColumn": 42,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endColumn": 49,
+                    "endOffset": 2797
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 49,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2802,
+                    "endColumn": 48,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 48,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2851,
+                    "endColumn": 44,
+                    "endOffset": 2891
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2330,
+                        "endColumn": 44,
+                        "endOffset": 2370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2896,
+                    "endLine": 56,
+                    "endColumn": 9,
+                    "endOffset": 3114
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endLine": 23,
+                        "endColumn": 9,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3119,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3305
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3310,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3596
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3601,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 3808
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3813,
+                    "endLine": 80,
+                    "endColumn": 13,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "F:\\Library1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endLine": 33,
+                        "endColumn": 13,
+                        "endOffset": 1584
+                    }
+                }
+            }
+        ]
+    }
+]

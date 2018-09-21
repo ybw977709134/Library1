@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hu_dong_fragment2.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\hu_dong_fragment2.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ben_guan_gai_kuang.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\ben_guan_gai_kuang.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gui_zhang_zhi_du.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\gui_zhang_zhi_du.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\jie_yue_li_shi.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\jie_yue_li_shi.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wei_zhang_jiao_kuan.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\wei_zhang_jiao_kuan.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dang_qian_jie_yue.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\dang_qian_jie_yue.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dong_tai.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\dong_tai.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\li_shi_yan_ge.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\li_shi_yan_ge.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\kai_fang_shi_jian.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\kai_fang_shi_jian.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\xin_sheng_dao_hang.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\xin_sheng_dao_hang.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fa_xian.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\fa_xian.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tong_zhi.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\tong_zhi.xml"
+    },
+    {
+        "merged": "F:\\Library1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\guan_cang_bu_ju.xml",
+        "source": "F:\\Library1\\app\\src\\main\\res\\menu\\guan_cang_bu_ju.xml"
+    }
+]
